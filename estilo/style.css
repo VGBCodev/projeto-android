@@ -79,7 +79,7 @@ nav a {
     border-radius: 8px;
     text-decoration: none;
     font-weight: bold;
-    transition-duration: 1s;
+    transition-duration: 0.5s;
 }
 
 nav > a:hover {
